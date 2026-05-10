@@ -166,37 +166,23 @@ streamlit run streamlit_app.py
 
 # Screenshots
 
-## Intro Screen
+# Screenshots
 
-![Intro](assets/intro.png)
+<img src="assets/intro.png" width="800"/>
 
-## Main Dashboard
+<img src="assets/main_dashboard.png" width="800"/>
 
-![Main Dashboard](assets/main_dashboard.png)
+<img src="assets/selection_job.png" width="800"/>
 
-## Job Selection
+<img src="assets/rankings.png" width="800"/>
 
-![Job Selection](assets/selection_job.png)
+<img src="assets/analytics.png" width="800"/>
 
-## Candidate Ranking
+<img src="assets/common_skills.png" width="800"/>
 
-![Candidate Ranking](assets/rankings.png)
+<img src="assets/filtering.png" width="800"/>
 
-## Recruiter Analytics
-
-![Recruiter Analytics](assets/analytics.png)
-
-## Common Skills Analysis
-
-![Common Skills](assets/common_skills.png)
-
-## Recruiter Filtering
-
-![Recruiter Filtering](assets/filtering.png)
-
-## Recruiter Insights
-
-![Recruiter Insights](assets/insights.png)
+<img src="assets/insights.png" width="800"/>
 ---
 
 # Future Improvements

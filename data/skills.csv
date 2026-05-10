@@ -25,7 +25,9 @@ scikit-learn
 data analysis
 data visualization
 html
-sentence-transformers
+sentence-transformers==2.7.0
+torch
+transformers
 css
 javascript
 typescript

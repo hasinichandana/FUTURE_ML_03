@@ -84,6 +84,10 @@ resume-screening/
 6. Recruiter insights and analytics are displayed
 
 ---
+## Live Deployment 
+
+https://resumescreeningml.streamlit.app/ 
+
 
 # AI Features
 

@@ -1,0 +1,3 @@
+Seeking a Data Scientist skilled in Python, Pandas, NumPy, Scikit-learn, SQL, Machine Learning, Data Visualization, and Statistics.
+
+Experience in predictive modeling and NLP is preferred.

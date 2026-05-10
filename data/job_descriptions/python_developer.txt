@@ -1,0 +1,3 @@
+Looking for a Python Developer with expertise in Python, OOP, APIs, Flask, FastAPI, SQL, Git, and unit testing.
+
+Knowledge of cloud deployment is a plus.

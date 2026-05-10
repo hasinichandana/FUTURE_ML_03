@@ -1,0 +1,13 @@
+spacy
+nltk
+scikit-learn
+pandas
+numpy
+pdfplumber
+PyPDF2
+streamlit
+fastapi
+uvicorn
+python-multipart
+matplotlib
+seaborn

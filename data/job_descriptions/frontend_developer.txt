@@ -1,0 +1,3 @@
+Hiring a Frontend Developer with strong skills in HTML, CSS, JavaScript, React, TypeScript, Redux, and responsive web design.
+
+Experience with REST API integration is required.

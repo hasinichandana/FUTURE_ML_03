@@ -1,0 +1,3 @@
+We are hiring a Software Engineer with experience in Python, Java, Data Structures, Algorithms, SQL, Git, Docker, and cloud platforms.
+
+Strong problem-solving and system design skills are required.

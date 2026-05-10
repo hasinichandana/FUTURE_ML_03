@@ -1,0 +1,3 @@
+Looking for a Backend Developer with experience in Python, FastAPI, Django, REST APIs, PostgreSQL, MySQL, Docker, AWS, and Git.
+
+Knowledge of scalable backend architecture is preferred.
